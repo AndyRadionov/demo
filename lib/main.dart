@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'screens/auth_screen.dart';
+import 'screens/storage_screen.dart';
 
 void main() {
-  runApp(const AuthScreen());
+  runApp(const StorageScreen());
 }
